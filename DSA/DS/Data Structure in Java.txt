@@ -1,9 +1,0 @@
-Linear
--Array
--Linked list
--Stack
--Queue
-
-Non-Linear
--Tree
--Graph
